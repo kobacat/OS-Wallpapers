@@ -1,5 +1,7 @@
 ## Wii U Home Menu Wallpaper - Setup guide
 
+**ATTENTION: Looks like I messed up a bit and need to find a way to make it editable for people since Wallpaper Engine doesn't allow people to edit other wallpapers; for now, this guide probably won't work, but if you know what you're doing, you might be able to.**
+
 **NOTE: Please keep in mind that you may need to understand minimal Javascript and image editing to get the best experience out of this tutorial.**
 
 ## PREQUISITES
