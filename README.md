@@ -14,3 +14,5 @@ need some experience in Javascript, as Wallpaper Engine's main
 coding language, Scenescript, is based on it. I'll try my best
 to explain everything here, but just keep that in mind
 before getting into this.
+
+## [Wii U Menu](https://github.com/kobacat/OS-Wallpapers/blob/main/wiiu/guide.md)
