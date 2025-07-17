@@ -1,7 +1,5 @@
 ## Wii U Home Menu Wallpaper - Setup guide
 
-**ATTENTION: Looks like I messed up a bit and need to find a way to make it editable for people since Wallpaper Engine doesn't allow people to edit other wallpapers; for now, this guide probably won't work, but if you know what you're doing, you might be able to.**
-
 **NOTE: Please keep in mind that you may need to understand minimal Javascript and image editing to get the best experience out of this tutorial.**
 
 ## PREQUISITES
@@ -28,26 +26,11 @@ You'll notice all the icons populated already. These are icons I used originally
 Make sure you grab an image that's a square so it doesn't become awkwardly stretched, and try to have an image that's between 200x200 and 250x250. If it's bigger or smaller, it should still work, but it might look worse.
 Once you have the icon(s) that you want to use, save it into a place you'll remember.
 
-Click the blue 'Add Asset' button back in the Wallpaper Engine editor. From here, scroll down to the 'Renderables' category, select 'Image Layer' and click OK.
-<img width="891" height="652" alt="image" src="https://github.com/user-attachments/assets/232d7748-6646-4aaf-9788-0e80f615ffbf" />
+Once you have your icon you want to replace, go to Wallpaper Engine and click on the Wii U Home Menu wallpaper. On the right hand side, scroll down and you should see a list of Apps to change the icon; just click the button for the icon you want to replace. Once you press OK, it should reflect in the wallpaper when you view it.
 
-Then, select the icon you want to import, and press OK in the screen after for it to show up in your editor. The image you imported should be on the bottom of the Layers tab on the left side of the screen.
-Find the icon you want to replace, for example, I'll be replacing the top left icon, or the first one on the list. Move the icon you want to replace it with to the top next to the one you're going to replace, like this;
-<img width="240" height="89" alt="image" src="https://github.com/user-attachments/assets/b3c759f0-63f5-41f3-af26-6c07acf88a61" />
-
-Then, right click the app name, in this case, the name is 'fortnite', then click the 'Copy Transforms' button on the dropdown menu. Then, right click on the icon you've added, and click the 'Paste Transforms' button.
-<img width="255" height="185" alt="image" src="https://github.com/user-attachments/assets/21f6b30a-901b-477a-b813-ea8197cdd96b" />
-
-After this, it should most likely be hidden as it'll be behind the old icon. This is fine, don't worry about it; for now, right click on the app# name below the icon you want to replace, hover over 'Hierarchy' and click 'Detach from Parent'. This will make the icons no longer linked, so from here, just delete the old icon by hovering over the red X next to it and clicking it.
-<img width="421" height="184" alt="image" src="https://github.com/user-attachments/assets/974183c8-5ff2-4543-a23b-18bb5ac3fcf2" />
-<img width="234" height="29" alt="image" src="https://github.com/user-attachments/assets/3ae92f90-4b51-4aa1-8862-4bff4004aab5" />
-
-From here, your icon should be shown where the old one used to be. Now, **make sure the icon is ABOVE the 'app#' you want to attach it to. Then right click the app#, and do the same as before, but click 'Attach to Parent'**
-<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/6e7796d0-38ab-4343-b1fa-aa16b2ec4a0a" />
+<img width="365" height="718" alt="image" src="https://github.com/user-attachments/assets/6f941bd3-d62d-44c0-a330-66e3c5d935aa" />
 
 After that, you're done! Keep in mind you'll have to do this process for every single icon you want to replace; but it should get easier once you do it a few times.
-
-Once you're all done editing the wallpaper, make sure you save it by **going to File on the top left of the screen, and clicking Save.** Then, **click Apply Wallpaper** for your changes to apply.
 
 ## EDITING THE WALLPAPER SCRIPT
 
