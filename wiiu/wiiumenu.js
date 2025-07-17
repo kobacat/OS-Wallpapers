@@ -7,7 +7,7 @@ const apps = {
     app1: '"placeholder"',
     app2: '"placeholder"',
     app3: '"placeholder"',
-    app4: '"placeholder"',,
+    app4: '"placeholder"',
     app5: '"placeholder"',
     app6: '"placeholder"',
     app7: '"placeholder"',
