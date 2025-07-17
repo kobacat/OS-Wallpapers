@@ -2,6 +2,8 @@
 
 **NOTE: Please keep in mind that you may need to understand minimal Javascript and image editing to get the best experience out of this tutorial.**
 
+## VIDEO GUIDE: https://www.youtube.com/watch?v=TfpLB7UmdXg
+
 ## PREQUISITES
 
 - A copy of [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) on Steam. It retails for $5.
