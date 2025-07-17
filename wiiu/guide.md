@@ -12,6 +12,14 @@
 
 First thing's first, make sure you've opened up Wallpaper Engine and you understand how to install or use Wallpapers in the app. 
 
+Before doing anything else, open up the Wallpaper Engine settings, you can do this by right clicking the icon in your taskbar like this:
+<img width="172" height="185" alt="image" src="https://github.com/user-attachments/assets/4473383d-b92f-458c-9132-6665db26603f" />
+
+Then, go to the General tab in the Settings window, scroll down to 'Developers' and make sure your 'Log level' is set to 'Verbose'. Make sure you save the settings, then restart Wallpaper Engine to make sure it works.
+
+<img width="541" height="601" alt="image" src="https://github.com/user-attachments/assets/621df836-4071-4ad5-adb1-4eba603840af" />
+
+
 [Install my published wallpaper here](https://steamcommunity.com/sharedfiles/filedetails/?id=3527097458) at this link.
 After installing it, select the wallpaper and click the 'Open in editor' button. Then we can get started!
 
