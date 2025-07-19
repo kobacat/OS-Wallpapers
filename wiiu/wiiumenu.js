@@ -30,17 +30,40 @@ const apps = {
 };
 
 function checkWallpaperLog() {
+    console.log(`Watching file: ${logFilePath}`);
+    
     fs.watchFile(logFilePath, { interval: 100 }, () => {
         fs.readFile(logFilePath, 'utf8', (err, data) => {
-            if (err || !data) return;
+            if (err) {
+                console.error(`[ERROR] Failed to read log file: ${err.message}`);
+                return;
+            }
+
+            if (!data.trim()) return;
+
+            let matched = false;
 
             for (const keyword in apps) {
                 if (data.includes(keyword)) {
-                    fs.truncate(logFilePath, 0, err => {
-                        if (!err) exec(apps[keyword]);
+                    matched = true;
+                    console.log(`[MATCH] Found keyword: "${keyword}" -> ${apps[keyword]}"`);
+
+                    console.log(`[INFO] Executing: ${apps[keyword]}`);
+                    exec(apps[keyword], (execErr, stdout, stderr) => {
+                        if (execErr) {
+                            console.error(`[ERROR] Failed to execute: ${execErr.message}`);
+                            return;
+                        }
+                        if (stdout) console.log(`[STDOUT] ${stdout}`);
+                        if (stderr) console.warn(`[STDERR] ${stderr}`);
                     });
+
                     break;
                 }
+            }
+
+            if (!matched) {
+                console.log(`[INFO] No matching keyword found in latest log update.`);
             }
         });
     });
