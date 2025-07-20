@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { exec } = require('child_process');
 
-const logFilePath = 'C:\\SteamLibrary\\steamapps\\common\\wallpaper_engine\\log.txt';
+const logFilePath = 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\log.txt';
 
 const apps = {
     app1: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk"',
