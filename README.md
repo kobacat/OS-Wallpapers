@@ -19,4 +19,5 @@ to explain everything here, but just keep that in mind
 before getting into this.
 
 ## [Wii U Menu](https://github.com/kobacat/OS-Wallpapers/blob/main/wiiu/guide.md)
+## [3DS Menu](https://github.com/kobacat/OS-Wallpapers/blob/main/3ds/guide.md)
 ## [Wii Menu (by @Lillykyu)](https://www.youtube.com/watch?v=Z3jW4yvK_dU)
