@@ -25,12 +25,6 @@ Then, go to the General tab in the Settings window, scroll down to 'Developers' 
 [Install my published wallpaper here](https://steamcommunity.com/sharedfiles/filedetails/?id=3527097458) at this link.
 After installing it, select the wallpaper and click the 'Open in editor' button. Then we can get started!
 
-<img width="291" height="478" alt="image" src="https://github.com/user-attachments/assets/b91985e3-356d-4a7f-adcf-551d2b2488db" />
-
-You'll notice all the icons populated already. These are icons I used originally, but you can replace them with your own.
-
-<img width="1923" height="1035" alt="image" src="https://github.com/user-attachments/assets/729bfa4e-1cec-4f59-b3ec-ddbd92fa063d" />
-
 ## USING YOUR OWN ICONS
 
 Make sure you grab an image that's a square so it doesn't become awkwardly stretched, and try to have an image that's between 200x200 and 250x250. If it's bigger or smaller, it should still work, but it might look worse.
