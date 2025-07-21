@@ -15,9 +15,9 @@ const apps = {
     app9: '"placeholder"',
     app0: 'start "" ""ms-settings:',
 	
-	home: '"C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe"',
-	big: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe',
-	small: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe',
+	home: '"placeholder"',
+	big: '"placeholder"',
+	small: '"placeholder"',
 	notes: '"placeholder"',
 	friends: '"placeholder"',
 	notifications: 'start "" "https://www.gmail.com/"',
