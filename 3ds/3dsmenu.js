@@ -4,24 +4,24 @@ const { exec } = require('child_process');
 const logFilePath = 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\log.txt';
 
 const apps = {
-    app1: '"C:\\Program Files (x86)\\Steam\\steam.exe"',
-    app2: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio\\OBS Studio (64bit).lnk"',
-    app3: '"C:\\Users\\music\\AppData\\Roaming\\Spotify\\Spotify.exe"',
-    app4: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Azahar.lnk"',
-    app5: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Dolphin.lnk"',
-    app6: '"C:\\Users\\music\\Downloads\\OperationGekkouRetro-3.7.0-pc\\OperationGekkouRetro.exe"',
-    app7: '"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half-Life\\hl.exe"',
-    app8: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Nexon\\Nexon Launcher.lnk"',
-    app9: '"A:\\SteamLibrary\\steamapps\\common\\DJMAX RESPECT V\\DJMAXRESPECT.exe"',
+    app1: '"placeholder"',
+    app2: '"placeholder"',
+    app3: '"placeholder"',
+    app4: '"placeholder"',
+    app5: '"placeholder"',
+    app6: '"placeholder"',
+    app7: '"placeholder"',
+    app8: '"placeholder"',
+    app9: '"placeholder"',
     app0: 'start "" ""ms-settings:',
 	
 	home: '"C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe"',
 	big: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe',
 	small: 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\wallpaper32.exe',
-	notes: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Notepad++.lnk',
-	friends: '"C:\\Users\\music\\AppData\\Local\\DiscordCanary\\Update.exe" --processStart DiscordCanary.exe"',
+	notes: '"placeholder"',
+	friends: '"placeholder"',
 	notifications: 'start "" "https://www.gmail.com/"',
-	web: '"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox Nightly.lnk"',
+	web: '"placeholder"',
 	miiverse: 'start "" "https://archiverse.pretendo.network/"',
 };
 
