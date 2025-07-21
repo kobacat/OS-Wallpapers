@@ -40,7 +40,7 @@ After that, you're done! Keep in mind you'll have to do this process for every s
 
 You're almost done! If you only want the wallpaper for aesthetic reasons, you can stop here; the buttons won't do anything however unless you run the script attached to the Github repo.
 
-What you need to do now is [download the script 'wiiuscript.js' that is included in the repo.](https://github.com/kobacat/OS-Wallpapers/blob/main/wiiu/wiiumenu.js).
+What you need to do now is [download the script '3dsscript.js' that is included in the repo.](https://github.com/kobacat/OS-Wallpapers/blob/main/3ds/3dsmenu.js).
 Next, open up the script in your favorite text editor. For me, I use Notepad++, so I'll be using that.
 
 What you'll notice is a bunch of code; you don't need to worry about most of it, the only important thing is the apps shown in the middle.
