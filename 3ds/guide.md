@@ -30,7 +30,7 @@ After installing it, select the wallpaper and click the 'Open in editor' button.
 Make sure you grab an image that's a square so it doesn't become awkwardly stretched, and try to have an image that's between 200x200 and 250x250. If it's bigger or smaller, it should still work, but it might look worse.
 Once you have the icon(s) that you want to use, save it into a place you'll remember.
 
-Once you have your icon you want to replace, go to Wallpaper Engine and click on the Wii U Home Menu wallpaper. On the right hand side, scroll down and you should see a list of Apps to change the icon; just click the button for the icon you want to replace. Once you press OK, it should reflect in the wallpaper when you view it.
+Once you have your icon you want to replace, go to Wallpaper Engine and click on the 3DS Home Menu wallpaper. On the right hand side, scroll down and you should see a list of Apps to change the icon; just click the button for the icon you want to replace. Once you press OK, it should reflect in the wallpaper when you view it.
 
 <img width="367" height="485" alt="image" src="https://github.com/user-attachments/assets/1f9586e7-cd2d-4010-82e8-2c6b3debc712" />
 
